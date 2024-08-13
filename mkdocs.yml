@@ -1,17 +1,18 @@
 site_name: 周湘祺大大的文档库
 theme:
-  name: material
-  language: zh
-  hljs_languages:
-  - yaml
-  markdown_extensions:
-  - toc:
-    permalink: true
-  - pymdownx.highlight:
-    linenums: true
-    anchor_linenums: true
-  - pymdownx.inlinehilite
-  - pymdownx.superfences
+name: material
+language: zh
+hljs_languages:
+- yaml
+markdown_extensions:
+- toc:
+  permalink: true
+- pymdownx.highlight:
+  linenums: true
+  anchor_linenums: true
+- pymdownx.inlinehilite
+- pymdownx.superfences
+
 
 
 nav:
